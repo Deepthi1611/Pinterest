@@ -1,6 +1,6 @@
 import './app.css'
 import Gallery from './components/gallery/Gallery'
-import LeftBar from './components/leftbar/LeftBar'
+import LeftBar from './components/leftbar/Leftbar'
 import Topbar from './components/topbar/Topbar'
 
 const App = () => {
